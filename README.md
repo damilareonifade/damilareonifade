@@ -18,15 +18,7 @@
 * 🎓 I'm a Computer Science Graduate
 
 
-## 🔥 My contribution streak
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1#version3"/>
-  </a>
-</p>
-
-<h3 align="center">⬇ Scroll down to see <a href="https://github.com/DenverCoder1?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
 
 ## 🙋‍♂️ Connect with me:
 
