@@ -30,22 +30,6 @@
 
 ## 🙋‍♂️ Connect with me:
 
-<p align="left">
-  <a href="https://www.youtube.com/c/DevProTips"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <!--<a href="https://www.linkedin.com/in/onifade-damilare/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>-->
-
-</p>
-
-<p align="left">
-  </a>
-</p>
-
-## 📘 My top open source projects
-
-
-<p align="left">
-  <a href="https://github.com/DenverCoder1?tab=repositories"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-More%20Repos-black?style=for-the-badge&logo=addthis&logoColor=white"/></a>
-</p>
 
 ## 👨‍💻 Languages and Tools:
 
@@ -98,35 +82,3 @@
         </tr>
     </tbody>
 </table>
-
-
-[<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/c/DevProTips?sub_confirmation=1)
-
-## 📈 Github Stats
-
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<details>
-  <summary>📊 GitHub Profile Stats</summary>
-  <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DenverCoder1&show_icons=true&count_private=true&hide=" /></a>
-</details>
-
-<details> 
-  <summary>💻 Most used languages</summary>
-  <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&langs_count=10&layout=compact#" /></a>
-  <br/>
-  <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
-</details>
-
-
-<!-- https://github.com/jamesgeorge007/github-activity-readme -->
-<details>
-  <summary>⚡ Recent GitHub Activity</summary>
-  <br/>
-
-</details>
------
-Credits: [DenverCoder1](https://github.com/DenverCoder1)
-
-Last Edited on: 15/01/2021
